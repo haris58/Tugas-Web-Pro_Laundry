@@ -1,2 +1,2 @@
-# tugasWebPro
-Tugas UasWeb Pro Laundry
+# Tugas Uas Web Pro
+Tugas Uas Web Pro Laundry
